@@ -453,7 +453,7 @@ CyFxUvcApplnDmaCallback (
             	//CyU3PDebugPrint (4, "Coun %d\n", dmaBuffer.count);
                 /* A partially filled buffer indicates the end of the ongoing video frame. */
                 CyFxUVCAddHeader (dmaBuffer.buffer - CY_FX_UVC_MAX_HEADER, CY_FX_UVC_HEADER_EOF);
-              	CyU3PDebugPrint (4, "t %d\n", gTotal_bytes);
+              	CyU3PDebugPrint (4, "t %d\n", gTotal_bytes); //Debugging totoal bytes sent per frame this number should exactly match UVC settings
                     	gTotal_bytes =0;
                 apiRetStatus = CyU3PGpioSetValue (DEBUG1_GPIO, CyFalse);
 				if (apiRetStatus != CY_U3P_SUCCESS)
