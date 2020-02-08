@@ -15,7 +15,9 @@ TODO
 1. Camera Zoom and Focus control is still need to be implemented. 
 2. Support for different resolution still need to be implemented. 
 
-![alt text](https://raw.githubusercontent.com/circuitvalley/PE1005_USB3_camera/master/Hardware/Images/DIY%20USB%203.0%201080p%20Full%20HD%20Camera%20with%20Auto%20Focus%20and%2010x%20Optical%20zoom%2C%201Gbps%20Streaming%20Over%20USB3.0%20(1).JPG)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ef-JyL7Mx-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Video](https://raw.githubusercontent.com/circuitvalley/PE1005_USB3_camera/master/Hardware/Images/DIY%20USB%203.0%201080p%20Full%20HD%20Camera%20with%20Auto%20Focus%20and%2010x%20Optical%20zoom%2C%201Gbps%20Streaming%20Over%20USB3.0%20(1).JPG)](https://www.youtube.com/watch?v=Ef-JyL7Mx-I)
 
 ![alt text](https://raw.githubusercontent.com/circuitvalley/PE1005_USB3_camera/master/Hardware/Images/DIY%20USB%203.0%201080p%20Full%20HD%20Camera%20with%20Auto%20Focus%20and%2010x%20Optical%20zoom%2C%201Gbps%20Streaming%20Over%20USB3.0%20(5).JPG)
 
